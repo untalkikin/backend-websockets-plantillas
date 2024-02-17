@@ -1,0 +1,20 @@
+{
+  "name": "backend-websockets-plantillas",
+  "version": "1.0.0",
+  "description": "Coeerhouse entregable",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Handlebars"
+  ],
+  "author": "Jose Enrique de la Torre Leyva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2",
+    "nodemon": "^3.0.3",
+    "socket.io": "^4.7.4"
+  }
+}
